@@ -2127,6 +2127,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.4.1"],
             ["ts-jest", "virtual:00e27592a2dabf49c3ebb37fcc690b2400b8bb15d71d93f5f23a02ce654d1bb48a3573e1cc3c0fd8f4b43089fa2e99a84d5184ffed185eee23f7a62913a7704c#npm:27.0.7"],
             ["ts-node", "virtual:00e27592a2dabf49c3ebb37fcc690b2400b8bb15d71d93f5f23a02ce654d1bb48a3573e1cc3c0fd8f4b43089fa2e99a84d5184ffed185eee23f7a62913a7704c#npm:10.4.0"],
+            ["tsconfig-paths", "npm:3.11.0"],
             ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"]
           ],
           "linkType": "SOFT",
@@ -4766,6 +4767,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["prettier", "npm:2.4.1"],
             ["ts-jest", "virtual:00e27592a2dabf49c3ebb37fcc690b2400b8bb15d71d93f5f23a02ce654d1bb48a3573e1cc3c0fd8f4b43089fa2e99a84d5184ffed185eee23f7a62913a7704c#npm:27.0.7"],
             ["ts-node", "virtual:00e27592a2dabf49c3ebb37fcc690b2400b8bb15d71d93f5f23a02ce654d1bb48a3573e1cc3c0fd8f4b43089fa2e99a84d5184ffed185eee23f7a62913a7704c#npm:10.4.0"],
+            ["tsconfig-paths", "npm:3.11.0"],
             ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"]
           ],
           "linkType": "SOFT",
