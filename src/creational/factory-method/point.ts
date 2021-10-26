@@ -1,12 +1,13 @@
-import { PointFactory } from './pointFactory'
+import PointFactory from '@/creational/factory-method/pointFactory'
 
-export class Point {
+export default class Point {
   private x: number
+
   private y: number
 
-  constructor(x:number, y: number) {
+  constructor(x: number, y: number) {
     this.x = x
-    this.y = y    
+    this.y = y
   }
 
   static get factory() {

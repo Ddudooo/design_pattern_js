@@ -1,1 +1,0 @@
-{"version":3,"file":"point.js","sourceRoot":"","sources":["../../../../src/creational/factory-method/point.ts"],"names":[],"mappings":";;;AAAA,iDAA6C;AAE7C,MAAa,KAAK;IAIhB,YAAY,CAAQ,EAAE,CAAS;QAC7B,IAAI,CAAC,CAAC,GAAG,CAAC,CAAA;QACV,IAAI,CAAC,CAAC,GAAG,CAAC,CAAA;IACZ,CAAC;IAED,MAAM,KAAK,OAAO;QAChB,OAAO,IAAI,2BAAY,EAAE,CAAA;IAC3B,CAAC;CACF;AAZD,sBAYC"}
