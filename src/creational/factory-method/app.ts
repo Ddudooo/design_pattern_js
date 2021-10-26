@@ -1,7 +1,10 @@
 import { PointFactory } from './pointFactory'
+import { Point } from './point'
 
-const point = PointFactory.newPolarPoint(5, Math.PI / 2)
-const point2 = PointFactory.newCartesianPoint(5, 6)
+const pointFactory:PointFactory = Point.factory
+
+const point = pointFactory.newPolarPoint(5, Math.PI / 2)
+const point2 = pointFactory.newCartesianPoint(5, 6)
 
 console.log(point)
 console.log(point2)

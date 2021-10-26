@@ -3,10 +3,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.PointFactory = void 0;
 const point_1 = require("./point");
 class PointFactory {
-    static newCartesianPoint(x, y) {
+    newCartesianPoint(x, y) {
         return new point_1.Point(x, y);
     }
-    static newPolarPoint(rho, theta) {
+    newPolarPoint(rho, theta) {
         return new point_1.Point(rho * Math.cos(theta), rho * Math.sin(theta));
     }
 }
